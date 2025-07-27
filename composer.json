@@ -1,0 +1,9 @@
+{
+    "name": "id-verification/portal",
+    "description": "ID Verification Portal",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.5"
+    }
+}
