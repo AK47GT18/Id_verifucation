@@ -1164,7 +1164,7 @@ $conn->close();
     <!-- Import Modal -->
     <div id="importModal" class="hidden fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center modal">
         <div class="bg-white p-8 rounded-xl shadow-lg max-w-md w-full">
-           <div id="importModal" class="hidden fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center modal">
+            <div id="importModal" class="hidden fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center modal">
         <div class="bg-white p-8 rounded-xl shadow-lg max-w-md w-full">
             <h2 class="text-lg font-semibold text-gray-900 mb-6 flex items-center gap-2">
                 <span class="material-icons text-blue-600">upload_file</span>
